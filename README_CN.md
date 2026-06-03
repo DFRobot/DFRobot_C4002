@@ -6,7 +6,7 @@
 ![svg](./resources/images/C4002.jpg)
 
 
-## 产品链接（https://www.dfrobot.com/product-3081.html）
+## 产品链接(https://www.dfrobot.com/product-3081.html)
 
     SKU：SEN0691
 

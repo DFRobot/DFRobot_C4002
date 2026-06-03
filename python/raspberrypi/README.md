@@ -6,7 +6,7 @@ This is a 24Ghz millimeter-wave distance radar sensor with a side-mounted motion
 ![svg](../../resources/images/C4002.jpg)
 
 
-## Product Link（https://www.dfrobot.com/product-3081.html）
+## Product Link(https://www.dfrobot.com/product-3081.html)
 
     SKU：SEN0691
 
